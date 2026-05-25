@@ -1,0 +1,11 @@
+append
+clear
+copy
+count
+extend
+index
+insert
+pop
+rename
+sort
+reverse
